@@ -1,6 +1,7 @@
 body {
   background-image: url("images/max-saeling-Whl4hLb6gPU-unsplash (1).jpg");
   background-size: cover;
+  background-position: center;
   font-family: 'Merriweather', serif;
   color: #4F646F;
   font-size: 15px;
