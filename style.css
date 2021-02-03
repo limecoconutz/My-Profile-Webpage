@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/max-saeling-Whl4hLb6gPU-unsplash.jpg");
+  /* background-image: url("images/max-saeling-Whl4hLb6gPU-unsplash.jpg"); */
   background-size: cover;
   font-family: 'Merriweather', serif;
   color: #4F646F;
@@ -63,6 +63,7 @@ a:hover{
 }
 .round-image{
   border-radius: 50%;
+  width: 200px;
 }
 
 .link-icons{
